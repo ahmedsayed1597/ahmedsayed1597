@@ -1,6 +1,6 @@
 I am ahmed sayed who work as a software engineer,
 I am a frontend developer,
-- web developer familiar with (HTML - CSS - JavaScript - Bootstrap 5 - Angular - Saas )
+- web developer familiar with (HTML - CSS - JavaScript - Bootstrap 5 - Angular - Saas - AJAX )
 - mobile developer familiar with Flutter,
 - 
 you can find my Linkedin profile: linkedin.com/in/ahmed-sayed-1597as
